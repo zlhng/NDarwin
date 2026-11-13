@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="NDarwin/NDarwin.csproj" Id="7af82c82-e9b4-4fae-a8d3-cf23b7841411">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
